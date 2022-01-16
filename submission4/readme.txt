@@ -1,5 +1,5 @@
 Unlisted youtube video:
-https://youtu.be/Oo6fWEbpudE
+https://youtu.be/ym8CPFO3pA4
 
 Conference / Paper submission login URL:
   https://easychair.org/conferences/?conf=icaeee2022
@@ -9,7 +9,7 @@ Multi-label News Classification using traditional ML models and BERT
 
 
 Paper presentation:
-https://drive.google.com/drive/folders/1qY52sNG_lAvpRC1L4mF6gHDDO_8u-KHt?usp=sharing
+https://drive.google.com/drive/folders/1Jo1zmS5PTjhyHCZKGz-15pHUhN_jlhps?usp=sharing
 
 Paper submission date (to workshop/conference):
 16 January 2022
