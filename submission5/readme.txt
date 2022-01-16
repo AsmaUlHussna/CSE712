@@ -1,28 +1,29 @@
 Unlisted youtube video:
-https://youtu.be/LT-mcqnALHc
+https://youtu.be/Oo6fWEbpudE
 
 Conference / Paper submission login URL:
   https://easychair.org/conferences/?conf=icaeee2022
 
 Paper title:
-Bangladesh Share Market Forecasting Using Hidden Markov Model
+Multi-label News Classification using traditional ML models and BERT
 
 
 Paper presentation:
-https://drive.google.com/drive/folders/1qY52sNG_lAvpRC1L4mF6gHDDO_8u-KHt?usp=sharing
+https://drive.google.com/drive/folders/1XRPllgbR02de6RcNfLruIWjaZJc55fil?usp=sharing
+
 
 Paper submission date (to workshop/conference):
-17 January 2022
+16 January 2022
 
 Paper submission ID: (received) from conference/workshop
-ICAEEE 2022 submission 221
+ICAEEE 2022 submission 219
 
 
 Conference URL:
 https://icaeee2022.com/
 
 Group Number:
-4
+14
 
 Group Members:
 Group Members:
