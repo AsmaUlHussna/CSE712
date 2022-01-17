@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/ym8CPFO3pA4
 
 Conference / Paper submission login URL:
-  https://easychair.org/conferences/?conf=icaeee2022
+https://easychair.org/conferences/?conf=icaeee2022
 
 Paper title:
 Multi-label News Classification using traditional ML models and BERT
@@ -22,9 +22,9 @@ Conference URL:
 https://icaeee2022.com/
 
 Group Number:
-4
+14
 
-Group Members:
+
 Group Members:
 21166025   Mohammad Ashekur Rahman               A
 21166030   Asma Ul Hussna                        B
