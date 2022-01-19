@@ -31,8 +31,8 @@ did something else
 2. Analysis on Replicated Concurrency Control and Recovery in Distributed Database Systems
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642615235058300
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642616131059000
 
 Submitter:
 21166030 Asma Ul Hussna A
