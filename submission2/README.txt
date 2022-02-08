@@ -12,7 +12,7 @@ Link to the paper:
 https://aclanthology.org/2020.nlpcovid19-acl.17/
 
 Group Number:
-5
+14
 
 Group Members:
 21166018 Iffat Immami Trisha     A
